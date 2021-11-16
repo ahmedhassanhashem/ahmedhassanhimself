@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedhassanhimself
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data analyst
+- 👀 I’m interested in SWT
+- 🌱 I’m currently learning Manual Testing
 - 💞️ I’m looking to collaborate on project to train
 - 📫 How to reach me ahmedhassanhimself@gmail.com
 
