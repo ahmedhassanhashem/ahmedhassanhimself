@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Software Testing 
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Software Development 
 - 💞️ I’m looking to collaborate on project to train
 - 📫 How to reach me ahmedhassanhashem@outlook.com
 
